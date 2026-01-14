@@ -1,2 +1,2 @@
 # InternalProject
-Complete Framework setup 
+Complete Framework setup repository
