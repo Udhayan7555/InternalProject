@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "aksPortalSuite">
+	<test name = "aksPortalTest">
+		<classes>
+			<class name = "com.aksPortal.tests.DummyClass"></class>
+			<class name = "com.aksPortal.tests.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>
